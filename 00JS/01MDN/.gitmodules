@@ -1,0 +1,3 @@
+[submodule "MDN learning-area"]
+  path = 00JS/01MDN
+  url = https://github.com/mdn/learning-area.git
